@@ -1,0 +1,14 @@
+footer {
+    background-color: #353A3F;
+    bottom: 0;
+    color: white;
+    font-size: 0.8em;
+    padding: 5px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+#kimetsu {
+    padding: 10px;
+}
